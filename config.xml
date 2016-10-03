@@ -16,5 +16,9 @@
     <author href="http://scratch.mit.edu/users/ZLGames" email="thelegolemon@gmail.com">
         ZLGames
     </author>
+        
+    <platform name="android">
+        <icon src="http://i63.tinypic.com/6r0vhz.jpg" width="180" height="180" />
+    </platform>
 
 </widget>
